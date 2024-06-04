@@ -1,3 +1,5 @@
+# WIP; forked from https://github.com/RaymanNg/3D-Wind-Field
+
 # 3D-Wind-Field [Demo](https://raymanng.github.io/3D-Wind-Field/demo/)
 Visualize the wind on earth, powered by [Cesium JS](https://github.com/AnalyticalGraphicsInc/cesium).
 
